@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav{
+    height: 40px;
+    width: 100%;
+    background-color: beige;
+
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+}
+
+ul li{
+    list-style-type: none;
+
+
+}
+
+ul li a{
+    background-color: sandybrown;
+    color: rgb(99, 10, 10);
+    padding: 5px 12px;
+    border-radius: 7px;
+    text-decoration: none;
+    font-size: 20px;
+    text-transform: uppercase;
+
+
+}
+.port-folio{
+    display: flex;
+}
+
+.port-folio img{
+    width: 50%;
+    height: 380px;
+
+}
+
+.port-folio p{
+    width:50%;
+    margin-top: 30px;
+    font-size: 20px;
+    margin-left: 7px;
+}

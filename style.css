@@ -45,7 +45,7 @@ ul i{
 
 /*ends-nav-design*/
 
-/*start stylr-design*/
+/*start style-design*/
 
 .style{
     display: flex;
@@ -139,6 +139,7 @@ h3{
 
 .haru p{
     margin-top: 24px;
+    margin-bottom: 15px;
 }
 
 .haru a{
@@ -148,6 +149,11 @@ h3{
     color: white;
     padding: 2px 5px;
     margin-top: 10px;
+}
+
+.haru a{
+    padding: 5px 7px;
+    margin-top: 7px;
 }
 /*ends sectioB*/
 
